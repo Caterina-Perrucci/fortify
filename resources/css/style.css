@@ -1,0 +1,41 @@
+.buttonIcon{
+    background-color: transparent;
+    border: none;
+    position: relative;
+    top: -40px;
+    left: 360px;
+    color: gray;
+}
+
+.dropdown-item:hover, .dropdown-item:focus {
+    color: white;
+    background-color: black;
+}
+
+.image-navbar{
+    width: 25px;
+    border-radius: 50%;
+    box-shadow: 10px white;
+}
+
+.image-navbar:hover{
+    border: 1px solid white;
+}
+
+.circle{
+    background-color: white;
+    border: 1px solid gray;
+    width: 300px;
+    border-radius: 50%;
+    height: 300px;
+}
+
+.img-profile{
+    width: 290px;
+    height: 290px;
+    
+}
+
+.btn{
+    height: fit-content;
+}
